@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+    background-color: white;
+    color: black;
+
+    transition: 0.3s;
+}
+
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Dark Mode Class */
+
+.dark{
+    background-color: #121212;
+    color: white;
+}
